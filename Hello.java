@@ -12,6 +12,7 @@ class Hello{
 
         System.err.println("Jagdish");
         num1--;
+        num2++;
 
        }
     }
